@@ -11,3 +11,6 @@ This project is very simple, I don't apply Angular Animation but I have plans to
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Run
+
+Run `npm install` or `yarn install` to install the dependencies for the project. Run `ng serve` to start the project.
